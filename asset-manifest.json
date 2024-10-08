@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deply-tes-1/static/css/main.f855e6bc.css",
+    "main.js": "/deply-tes-1/static/js/main.ba167e7f.js",
+    "static/js/453.3d6c98d9.chunk.js": "/deply-tes-1/static/js/453.3d6c98d9.chunk.js",
+    "static/media/logo.svg": "/deply-tes-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deply-tes-1/index.html",
+    "main.f855e6bc.css.map": "/deply-tes-1/static/css/main.f855e6bc.css.map",
+    "main.ba167e7f.js.map": "/deply-tes-1/static/js/main.ba167e7f.js.map",
+    "453.3d6c98d9.chunk.js.map": "/deply-tes-1/static/js/453.3d6c98d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ba167e7f.js"
+  ]
+}
